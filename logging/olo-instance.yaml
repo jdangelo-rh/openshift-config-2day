@@ -20,9 +20,9 @@ spec:
       storage: {}
       resources: 
         limits:
-          memory: "16Gi"
+          memory: "1Gi"
         requests:
-          memory: "16Gi"
+          memory: "1Gi"
       proxy: 
         resources:
           limits:
